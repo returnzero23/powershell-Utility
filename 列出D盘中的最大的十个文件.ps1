@@ -1,0 +1,1 @@
+dir d:\ -Recurse | Sort-Object -Descending length | Select-Object -First 10
